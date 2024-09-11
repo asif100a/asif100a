@@ -4,7 +4,7 @@
 <div>
   <h1>About Me:</h1>
   <h2>👨Hello! there,</h2>
-  <p>👋 Wellcome to my profile. I am <b>N.M. Asif Sheikh</b>, <i>"Front-end web developer"</i> from <b>Bangladesh</b>. I am an enthusiastic web developer with a passion for front-end development. I enjoy learning new technologies and applying them to create projects. I have experience with React, HTML, CSS, JavaScript and other modern web technologies.</p>
+  <p>👋 Wellcome to my profile. I am <b>N.M. Asif Sheikh</b>, <i>"Front-end web developer"</i> from <b>Bangladesh</b>. I am an enthusiastic web developer with a passion for front-end development. I enjoy learning new technologies and applying them to create projects. I have experience with React, HTML, CSS, JavaScript, and other modern web technologies.</p>
 </div>
 <div>
   <h1>Language Used:</h1>
