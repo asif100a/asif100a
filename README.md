@@ -40,9 +40,11 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
 
+<h3>Most Used Languages:</h3>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif100a&show_icons=true&locale=en&layout=compact&theme=light" alt="nmasifsheikh" /></p>
+  
+<h3>Github Stats:</h3>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=asif100a&show_icons=true&locale=en&theme=light" alt="nmasifsheikh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif100a&show_icons=true&locale=en&layout=compact&theme=light" alt="nmasifsheikh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif100a&show_icons=true&locale=en&theme=light" alt="nmasifsheikh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif100a&&theme=light" alt="nmasifsheikh" /></p>
+<h3>Daily Streak:</h3>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=asif100a&&theme=light" alt="nmasifsheikh" /></p>
