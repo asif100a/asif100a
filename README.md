@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100070024600518" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="n.m.asif-sheikh" height="30" width="30" /></a>
-<a href="https://x.com/NMAsifSheikh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n.m.asif-sheikh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/n-m-asif-sheikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n-m-asif-sheikh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nmasifsheikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nm_asif_sheikh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100070024600518" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="n.m.asif-sheikh" height="30" width="30" /></a>
+<a href="https://x.com/NMAsifSheikh1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n.m.asif-sheikh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nm-asif-sheikh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nm-asif-sheikh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nmasifsheikh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nm_asif_sheikh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
